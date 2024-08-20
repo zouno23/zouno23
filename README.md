@@ -6,7 +6,7 @@ I am an enthusiastic ISIMM graduate, driven by a passion for problem-solving and
 ## 🚀 About Me
 
 - 🔭 I'm currently working at SW Consuting.
-- 📝 Check my website [medazizbenhmidene.com](https://medzizbenhmidene.com)
+- 📝 Check my website [medazizbenhmidene.com](https://medazizbenhmidene.com)
 
 
 ## Tech Stack
