@@ -1,18 +1,13 @@
 # Hi, I'm Aziz! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am an enthusiastic ISIMM graduate, driven by a passion for problem-solving and leadership. My journey has been shaped by my love for technology and active roles in the community, including serving as the chair of IEEE ISIMM SB and representing over 5000 IEEE student members in Tunisia. I thrive on exploring new ideas, leading innovative projects, and sharing insights with others, all while embracing challenges with creativity and dedication.
 
 ![<Zouno23>'s Stats](https://github-readme-stats.vercel.app/api?username=zouno23&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 🔭 I'm currently working at SW Consuting.
+- 📝 Check my website [medazizbenhmidene.com](https://medzizbenhmidene.com)
 
 
 ## Tech Stack
@@ -27,17 +22,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
 
