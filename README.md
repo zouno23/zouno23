@@ -2,7 +2,7 @@
 
 I am an enthusiastic ISIMM graduate, driven by a passion for problem-solving and leadership. My journey has been shaped by my love for technology and active roles in the community, including serving as the chair of IEEE ISIMM SB and representing over 5000 IEEE student members in Tunisia. I thrive on exploring new ideas, leading innovative projects, and sharing insights with others, all while embracing challenges with creativity and dedication.
 
-![<Zouno23>'s Stats](https://github-readme-stats.vercel.app/api?username=zouno23&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Zouno23>'s Stats]((https://github-readme-streak-stats.herokuapp.com/?user=zouno23))
 
 ## 🚀 About Me
 
